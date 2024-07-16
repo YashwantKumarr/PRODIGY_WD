@@ -93,7 +93,7 @@ section {
     position: relative;
     width: 100%;
     height: 100vh;
-    background: url("D:\\Vs Code\\PRODIGY WORK\\Coffee Shop 3\\bg.png");
+    background: url(https://github.com/YashwantKumarr/PRODIGY_WD/blob/main/bg.png?raw=true);
     background-size: cover;
     background-position: center;
     display: grid;
